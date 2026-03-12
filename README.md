@@ -1,7 +1,7 @@
 # SpaceWMay2024SLO
 Repository for May2024 extreme space weather event, focusing on Slovenia 
 
-Data about May2024 space weather event, focusing on SLovvenia and E D T sectors
+Data about May2024 space weather event, focusing on Slovenia and E D T sectors
 
 By this data set, we addressed the event
 
