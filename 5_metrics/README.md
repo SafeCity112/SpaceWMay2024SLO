@@ -1,1 +1,1 @@
-Metrics
+Metrics definition for the project
